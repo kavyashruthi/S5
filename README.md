@@ -66,4 +66,3 @@ Results:
 Analysis:
 The model is under-fitting now. This is fine, as we know we have made our train data harder. 
 The test accuracy is also up, which means our test data had few images which had transformation difference w.r.t. train dataset
-
